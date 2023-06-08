@@ -1,4 +1,4 @@
-# Paper-of-logic-in-memory
+# Paper of Logic-In-Memory
 collection of lecture about logic-in-memory in these years（mostly 2015-2022）
 about：
  
