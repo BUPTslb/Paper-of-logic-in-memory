@@ -26,6 +26,15 @@ about：
 
 **search-after-storage**
 
+- Merging Everything (ME): A Unified FPGA Architecture Based on Logic-in-Memory Techniques
+  - Xiaoming Chen, Longxiang Yin, Bosheng Liu, and Yinhe Han	DAC 2019 [PDF](https://ieeexplore.ieee.org/document/8806845)
+
+
+
+
+
+
+
 
 
 ### logic-in-memory design
