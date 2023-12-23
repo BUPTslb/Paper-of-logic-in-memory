@@ -11,6 +11,7 @@ Some famous team of logic in memory
   - TEAM~[Rickard Ewetz](https://scholar.google.com/citations?hl=en&user=h_RaG-8AAAAJ&view_op=list_works&sortby=pubdate), University of Central Florida
   - TEAM~[Anupam Chattopadhyay](https://scholar.google.com/citations?user=TIt4ggwAAAAJ&hl=en&oi=ao), Nanyang Technological University
   - TEAM~[Guojie Luo](https://scholar.google.com/citations?user=8-mT29YAAAAJ&hl=zh-CN), Peking University
+  - TEAM~[Xiaoming Chen](https://scholar.google.com/citations?user=Qkyxst8AAAAJ&hl=zh-CN), Institute of Computing Technology, CAS
   - ...
 ## LOGIC STRUCTURE: In compilation process of logic synthesis, code in HDL will be translate into uniform DAG expression for the following optimization
   - SOP(sum of product),example paper : " SAID : A Supergate-Aided Logic Synthesis Flow for Memristive Crossbars " [PDF](https://ieeexplore.ieee.org/document/8714939)
@@ -88,7 +89,9 @@ Some famous team of logic in memory
 - An Offset-Tolerant Fast-Random-Read Current-Sampling-Based Sense Amplifier for Small-Cell-Current Nonvolatile Memory [PDF](https://ieeexplore.ieee.org/document/6407149)
   - Meng-Fan Chang, Shin-Jang Shen, Chia-Chi Liu, Che-Wei Wu, Yu-Fan Lin, Ya-Chin King, Chorng-Jung Lin, Hung-Jen Liao, Yu-Der Chih, and Hiroyuki Yamauchi. (JSSC 2013)
 - Merging Everything (ME): A Unified FPGA Architecture Based on Logic-in-Memory Techniques [PDF](https://ieeexplore.ieee.org/document/8806845)
-  - Xiaoming Chen, Longxiang Yin, Bosheng Liu, and Yinhe Han.	DAC 2019 
+  - Xiaoming Chen, Longxiang Yin, Bosheng Liu, and Yinhe Han.	(DAC 2019)
+- Meltrix: A RRAM-Based Polymorphic Architecture Enhanced by Function Synthesis [PDF](https://ieeexplore.ieee.org/document/10323544)
+  - Boyu Long, Libo Shen, Xiaoyu Zhang, Yinhe Han, Xian-He Sun, Xiaoming Chen. (ICCAD 2023)
 
 
 ### synthesis design
@@ -98,12 +101,14 @@ Some famous team of logic in memory
 - An MIG-based Compiler for Programmable Logic-in-Memory Architectures [PDF](https://ieeexplore.ieee.org/document/7544359)
   - Mathias Soeken; Saeideh Shirinzadeh; Pierre-Emmanuel Gaillardon; Luca Gaetano Amarú; Rolf Drechsler; Giovanni De Micheli (DAC 2016)
 
-
 - SAID : A Supergate-Aided Logic Synthesis Flow for Memristive Crossbars  [PDF](https://ieeexplore.ieee.org/document/8714939)
     - Valerio Tenace; Roberto G. Rizzo; Debjyoti Bhattacharjee; Anupam Chattopadhyay; Andrea Calimera (DATE 2019)
 
+- Meltrix: A RRAM-Based Polymorphic Architecture Enhanced by Function Synthesis [PDF](https://ieeexplore.ieee.org/document/10323544)
+  - Boyu Long, Libo Shen, Xiaoyu Zhang, Yinhe Han, Xian-He Sun, Xiaoming Chen. (ICCAD 2023)
 
-
+- LIM-GEN: A Data-Guided Framework for Automated Generation of Heterogeneous Logic-in-Memory Architecture. [PDF](https://ieeexplore.ieee.org/document/10323837)
+  - Libo Shen; Boyu Long; Rui Liu; Xiaoyu Zhang; Yinhe Han; Xiaoming Chen (ICCAD 2023) 
 
 ### architecture design
 - Deep Learning Acceleration using Digital-Based Processing In-Memory [PDF](https://ieeexplore.ieee.org/document/8980299)
@@ -116,7 +121,8 @@ Some famous team of logic in memory
 - ReVAMP: ReRAM based VLIW architecture for in-memory computing [PDF](https://ieeexplore.ieee.org/abstract/document/7927095)
   - Debjyoti Bhattacharjee; Rajeswari Devadoss; Anupam Chattopadhyay (DATE 2017)
 
-
+- LIM-GEN: A Data-Guided Framework for Automated Generation of Heterogeneous Logic-in-Memory Architecture. [PDF](https://ieeexplore.ieee.org/document/10323837)
+  - Libo Shen; Boyu Long; Rui Liu; Xiaoyu Zhang; Yinhe Han; Xiaoming Chen (ICCAD 2023) 
 
 
 
